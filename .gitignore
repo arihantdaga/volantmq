@@ -41,3 +41,4 @@ vendor
 persist.db
 plugins
 config.local.yaml
+.vscode/
